@@ -1,0 +1,28 @@
+1	Numeric Types
+•	int: Integer values
+•	float: Floating-point numbers
+•	complex: Complex numbers
+
+2.	Sequence Types
+•	str: String of characters
+•	list: List of items
+•	tuple: Immutable sequence of items
+•	range: Sequence of numbers
+
+3.	Mapping Types
+•	dict: Dictionary (key-value pairs)
+
+4.	Set Types
+•	set: Unordered collection of unique items
+•	frozenset: Immutable set
+
+5.	Boolean Type
+•	bool: Boolean values (True or False)
+
+6.	Binary Types
+•	bytes: Immutable sequence of bytes
+•	bytearray: Mutable sequence of bytes
+•	memory view: Memory view object
+
+7.	None Type
+•	NoneType: Represents the absence of a value, the singleton None
